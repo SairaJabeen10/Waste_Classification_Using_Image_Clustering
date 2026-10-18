@@ -60,9 +60,10 @@ Waste Category Prediction
 ```
 
 ## Model Performance
-Metric	Result
-Classification Accuracy	Approximately 65%
-Clustering Evaluation	Silhouette Score and Davies–Bouldin Index
+| Metric | Result |
+|---|---|
+| Classification Accuracy | Approximately 65% |
+| Clustering Evaluation | Silhouette Score and Davies–Bouldin Index |
 
 The model performs better on visually distinct categories. Similar-looking waste materials remain challenging to classify.
 
