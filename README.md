@@ -101,9 +101,9 @@ Develop a web application for waste classification.
 Improve recyclability assessment.
 
 ## Team Members
-Saira Jabeen	
-Kainat Moin	
-Hafsa Naz	
+Saira Jabeen	|
+Kainat Moin|	
+Hafsa Naz	|
 Sabiha Pirzadah
 
 ## Author
