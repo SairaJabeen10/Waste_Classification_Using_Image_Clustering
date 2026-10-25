@@ -108,7 +108,8 @@ Sabiha Pirzadah
 
 ## 🎥 Project Demo
 
-[▶️ Click here to view the Waste Classification Demo Video](%3C./Demo%20Video.mp4%3E)
+[Watch the Demo Video](https://github.com/SairaJabeen10/Waste_Classification_Using_Image_Clustering/blob/main/Demo%20Video.mp4)
+
 
 
 
