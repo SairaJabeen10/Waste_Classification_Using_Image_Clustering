@@ -102,7 +102,7 @@ Improve recyclability assessment.
 
 ## Team Members
 Saira Jabeen	|
-Kainat Moin|	
+Kainat Moin |	
 Hafsa Naz	|
 Sabiha Pirzadah
 
