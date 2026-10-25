@@ -59,7 +59,7 @@ Supervised Classification
 Waste Category Prediction
 ```
 
-## 📊 Model Performance
+## Model Performance
 
 The waste classification model achieved **67% overall accuracy** on the evaluation dataset containing 949 samples.
 
