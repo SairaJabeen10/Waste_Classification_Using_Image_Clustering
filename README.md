@@ -105,6 +105,10 @@ Saira Jabeen	|
 Kainat Moin |	
 Hafsa Naz	|
 Sabiha Pirzadah
+## 🎥 Project Demo
+
+[Click here to view the Waste Classification Demo Video](waste_classification_demo.mp4)
+
 
 ## Author
 
