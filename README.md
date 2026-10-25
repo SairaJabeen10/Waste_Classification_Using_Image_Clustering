@@ -59,13 +59,31 @@ Supervised Classification
 Waste Category Prediction
 ```
 
-## Model Performance
-| Metric | Result |
-|---|---|
-| Classification Accuracy | Approximately 65% |
-| Clustering Evaluation | Silhouette Score and Davies–Bouldin Index |
+## 📊 Model Performance
 
-The model performs better on visually distinct categories. Similar-looking waste materials remain challenging to classify.
+The waste classification model achieved **67% overall accuracy** on the evaluation dataset containing 949 samples.
+
+| Metric             | Score |
+| ------------------ | ----: |
+| Overall Accuracy   |   67% |
+| Weighted Precision |   66% |
+| Weighted Recall    |   67% |
+| Weighted F1-Score  |   66% |
+
+### Class-wise F1-Score
+
+| Waste Category      | F1-Score |
+| ------------------- | -------: |
+| Glass               |      32% |
+| Cardboard           |      90% |
+| Vegetation          |      78% |
+| Textile Trash       |      73% |
+| Metal               |      52% |
+| Paper               |      66% |
+| Miscellaneous Trash |      58% |
+| Food Organics       |      61% |
+| Plastic             |      94% |
+
 
 ## Training Configuration
 Parameter	Value
